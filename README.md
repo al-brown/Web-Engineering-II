@@ -8,9 +8,6 @@
 ## Getting Started
 
 Clone or Download the Repository
-```
-URL: https://cgmgit.beuth-hochschule.de/s61309/predictor
-```
 
 ### Prerequisites
 
